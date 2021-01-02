@@ -1,4 +1,4 @@
-﻿<base href="http://localhost/homestay/admin/">
+﻿<base href="https://intheforest.herokuapp.com/admin/">
 <script src="../Public/Js/jquery-3.4.1.min.js"></script>
 <script src="../Public/Js/popper.min.js"></script>
 
