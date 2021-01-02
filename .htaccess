@@ -1,5 +1,5 @@
 #404
-ErrorDocument 404 https://homestay-php.herokuapp.com/homestay/404.php
+ErrorDocument 404 https://homestay-php.herokuapp.com/404.php
 
 #<Files "404.php">
 #   Allow from all
