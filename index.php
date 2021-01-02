@@ -1,4 +1,4 @@
-<base href="http://localhost/homestay/">
+<base href="https://intheforest.herokuapp.com/">
 <link rel="stylesheet" href="Public/Css/styleee.css">
 <link rel="stylesheet" href="Public/Css/util.css">
 <link rel="stylesheet" href="Public/Fontawesome/css/all.css">
@@ -45,4 +45,3 @@ if (file_exists($path)) {
    header('Location:404.php');
 }
 ?>
-???
