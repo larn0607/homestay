@@ -1,0 +1,26 @@
+#404
+ErrorDocument 404 http://localhost/homestay/404.php
+
+#<Files "404.php">
+#   Allow from all
+#</Files>
+#php_value upload_max_filesize 20M
+
+#RewriteEngine on
+#RewriteRule "^index.html$" "index.php"
+#RewriteRule "^([a-zA-Z0-9]+)/([a-zA-Z0-9]+).html$" "index.php?m=$1&a=$2"
+
+#RewriteRule "^admin/index.html$" "admin/index.php" [NC]
+##rewrite:admin/common/admin.html
+#RewriteRule "^admin/([a-zA-Z0-9]+)/([a-zA-Z0-9]+).html$" "admin/index.php?m=$1&a=$2" [NC]
+
+##rewrite:admin/cat-list.html
+#RewriteRule "^admin/([a-zA-Z0-9-]+).html$" "admin/?page=$1&m=common&a=admin" [NC]
+
+
+
+
+
+
+
+
