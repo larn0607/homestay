@@ -1,10 +1,10 @@
 <?php
 class Database
 {
-   private $host = "localhost";
-   private $user = "root";
-   private $pass = "";
-   private $dbname = "homestay2";
+   private $host = "z3iruaadbwo0iyfp.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+   private $user = "r1q0c766m5mmekio";
+   private $pass = "qa5i8appoqeul86j";
+   private $dbname = "kaf6dc5g1n6g0lh6";
    private $con = null;
 
    function __construct()
